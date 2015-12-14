@@ -18,4 +18,4 @@
   echo "Меня зовут ",$_REQUEST['name'], "<br>";
   echo "Мне  ",$_REQUEST['age'], " года<br>";
  }
- ?>
+ ?> 
